@@ -1,0 +1,34 @@
+Churn Modelling
+
+Total Count --> 7043
+Total Churns --> 1869
+Percentage --> 26% are Churner's
+
+Gender --> Not Helpfull
+
+
+Senior Citizen --> 41% Churners & Non Seniors are 23%
+churners
+
+
+PhoneServices (Not Helpfull)
+Yes --> 26%
+Noo --> 24%
+
+Tech Support :
+Yes --> 41%
+No -->35%
+No Internet Services -->7%
+
+
+Payment Method :
+Ec -->45%
+PC -->19%
+BT -->16%
+CC -->14%
+
+Contract Type --> Monthly Customers are Churners
+
+Dependents :
+churn(No =1543) --> 31%
+churn(yes =326) --> 15%
